@@ -10,6 +10,7 @@
   text-align: center;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   position: relative;
 }
 .card {
@@ -33,10 +34,4 @@
 
 .descr-wrap {
   padding: 10px;
-}
-
-.nothing-found {
-  position: absolute;
-  top: 0;
-  left: 0;
 }
